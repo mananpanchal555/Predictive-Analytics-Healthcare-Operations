@@ -1,0 +1,17 @@
+# Predictive Analytics for Healthcare Operations
+# Python dependencies — install with: pip install -r requirements.txt
+
+# Core ML
+scikit-learn>=1.3.0
+
+# Data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+openpyxl>=3.1.0        # For reading data description.xlsx
+joblib>=1.3.0          # For model serialization (optional)
